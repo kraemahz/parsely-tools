@@ -30,7 +30,4 @@ parsely-tools
 =============
 
 
-    Add a short description here!
-
-
-A longer description of your project goes here...
+    Utilities for working with Parsely.
